@@ -1,0 +1,6 @@
+FPS,60
+animation_FPS,10
+screen_width,800
+screen_height,600
+SF,150
+max_name_length,8

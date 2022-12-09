@@ -1,0 +1,6 @@
+min_num_rows,11
+max_num_rows,19
+min_num_cols,15
+max_num_cols,25
+num_doors,10
+door_flip_frequency,60

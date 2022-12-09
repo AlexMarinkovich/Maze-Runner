@@ -1,0 +1,2 @@
+player1,W,A,S,D
+player2,38,37,40,39
